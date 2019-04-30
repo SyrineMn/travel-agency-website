@@ -1,0 +1,36 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+
+}
+#cont-hd {
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	height:50px;
+	font-family:arial;
+	background-color:#252323;
+	color:white;
+}
+ .logo{
+	margin-top:12px;
+}
+.nav-links{
+display:flex;
+width:40%;
+justify-content:space-around;
+margin-top:15px;
+}
+.nav-links li{
+	list-style:none;
+}
+.nav-links a{
+	color:white;
+	font-size:20px;
+	text-decoration:none;
+}
+.nav-links a:hover{
+	text-decoration:none;
+	color:#00BFFF;
+}

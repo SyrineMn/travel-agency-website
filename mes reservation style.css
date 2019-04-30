@@ -1,0 +1,31 @@
+
+.container {
+
+	justify-content:space-around;
+	align-items:center;
+	height:500px;
+	font-family:arial;
+	
+	
+
+}
+
+.container .row {
+ margin-top:20px;
+ margin-left:125px;
+	height:60px;
+	font-size:20px;
+	border:black solid 1px;
+	border-radius:3px;
+	width:800px;
+}
+.row #trait{
+	margin-top:6px;
+}
+.row #t{
+	margin-top:25px;
+}
+
+
+
+	
